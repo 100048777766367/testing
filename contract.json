@@ -1,0 +1,12 @@
+{
+    "contract_id": "bodhi.testing.v1",
+    "identity": "100048777766367/testing",
+    "archetype": "TRUTH_ORACLE",
+    "role": "PREFLIGHT_SURVIVAL_VALIDATOR",
+    "network_partners": {
+        "cover": "100048777766367/cover",
+        "release": "100048777766367/release",
+        "storage": "100048777766367/storage"
+    },
+    "io_specification": "I/O (PREFLIGHT_SURVIVAL_VALIDATOR)"
+}
